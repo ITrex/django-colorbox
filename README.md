@@ -11,7 +11,7 @@ django-colorbox
 ```python
 INSTALLED_APPS=[
 # ...
-    django_colorbox
+    'django_colorbox',
 # ...
 ]
 ```
