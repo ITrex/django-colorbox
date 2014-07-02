@@ -8,7 +8,7 @@ setup(
     author='Jack Moore',
     maintainer='Renat Galimov',
     maintainer_email='renat2017@gmail.com',
-    license='MIT',
+    license='MIT License',
     keywords=['django', 'jquery', 'lightbox', 'staticfiles', 'overlay', 'image'],
     platforms='any',
     classifiers=[
