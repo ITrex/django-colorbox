@@ -17,5 +17,7 @@ INSTALLED_APPS=[
 ```
 * Load javascript in your template
 ```html
-<script type="text/javascript" src="{% static 'js/django_colorbox/jquery.colorbox-min.js' %}"></script>
+
+<link rel="stylesheet" href="{% static 'django_colorbox/js/jquery.colorbox-min.js' %}"/>
+<script type="text/javascript" src="{% static 'django_colorbox/js/jquery.colorbox-min.js' %}"></script>
 ```
